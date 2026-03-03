@@ -5,5 +5,5 @@ function Driving(age,hasLicense) {
     console.log('You cant be the driver')
   }
 }
-Driving(age,hasLicense)
+Driving()
 
